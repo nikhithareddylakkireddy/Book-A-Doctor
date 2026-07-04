@@ -1,4 +1,4 @@
-# Doctor Appointment Booking System
+# 🏥 MediSync Hospital – Doctor Appointment Booking System
 
 ## Live Demo
 https://book-a-doctor.streamlit.app/
